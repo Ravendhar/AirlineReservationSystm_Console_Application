@@ -1,0 +1,3 @@
+lufthansa_File=E:\\Eclipse IDE webdev\\AirlineReservationSystem\\ARS\\Model\\lufthansa.txt
+boeing_File=E:\\Eclipse IDE webdev\\AirlineReservationSystem\\ARS\\Model\\boeing.txt
+airbus_File=E:\\Eclipse IDE webdev\\AirlineReservationSystem\\ARS\\Model\\airbus.txt
