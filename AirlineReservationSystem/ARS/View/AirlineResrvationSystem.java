@@ -13,10 +13,7 @@ import ARS.Model.*;
 
 public class AirlineResrvationSystem {
 
-	public static void main(String[] args){
-		DataBase dbobj = new DBFunctionalities();
-		dbobj.displayfile();
-		
+	public static void main(String[] args){		
 		HomePage homeobj = new LoginPage();
 		homeobj.homepage();
 	}
